@@ -1,0 +1,19 @@
+{
+  "name": "get-started-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/viniciusSilva50/get-stated-nodejs.git"
+  },
+  "author": "vinicius da silva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/viniciusSilva50/get-stated-nodejs/issues"
+  },
+  "homepage": "https://github.com/viniciusSilva50/get-stated-nodejs#readme"
+}
